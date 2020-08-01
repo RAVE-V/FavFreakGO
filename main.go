@@ -26,7 +26,7 @@ func banner() {
 	888     888  888  Y8bd8P  888     888    Y8b.     888  888 888 "88b Y88b  d88P Y88b. .d88P 
 	888     "Y888888   Y88P   888     888     "Y8888  "Y888888 888  888  "Y8888P88  "Y88888P"   `)
 	color.HiGreen("\n\t\t\t\t\t\t\t    FavFreakGo: FavFreak.py ported to GO")
-	color.HiYellow("\t\t\t\t\t\t\t    github.com/Rave-v\n\n")
+	color.HiYellow("\t\t\t\t\t\t\t    github.com/RAVE-V/FavFreakGO\n\n")
 }
 
 func getDomains(domain []string) []string {
